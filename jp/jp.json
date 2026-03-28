@@ -5,6 +5,24 @@
     "createdAt": "07/02/026",
     "isExternalPanel": true,
     "panelUrl": "https://zeustv.in/xpplayer/dns.json",
-    "p3": ""
+    "p3": "",
+    "logo": "https://zeustv.in/zm.png",
+    "host": [
+      {
+        "name": "Zeus",
+        "link": "http://zeusplay.co:80",
+        "logo": "https://zeustv.in/zm.png"
+      },
+      {
+        "name": "Galaxy",
+        "link": "http://oryxpro.online:80",
+        "logo": "https://zeustv.in/zm.png"
+      },
+      {
+        "name": "iptv",
+        "link": "http://mystb.space",
+        "logo": "https://zeustv.in/zm.png"
+      }
+    ]
   }
 ]
