@@ -1,10 +1,10 @@
 [
   {
-    "code": "100",
+    "code": "",
     "isActive": true,
     "createdAt": "07/02/026",
     "isExternalPanel": true,
-    "panelUrl": "https://zeustv.in/xpplayer/dns.json",
+    "panelUrl": "",
     "p3": ""
   }
 ]
